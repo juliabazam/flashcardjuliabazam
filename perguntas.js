@@ -1,23 +1,23 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'artes',
+    'Quem pintou Mona Lisa?',
+    'Leonardo da Vinci.'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'artes',
+    'Qual é o nome do famoso quadro de Vincent van Gogh que mostra um céu estrelado?',
+    'A Noite Estrelada.'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'artes',
+    'O que é uma escultura?',
+    'Uma obra de arte tridimensional feita com materiais como pedra, metal ou madeira.'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'artes',
+    'Quem pintou o teto da Capela Sistina?',
+    ' Michelangelo.'
 )
